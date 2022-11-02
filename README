@@ -1,7 +1,2 @@
-echo "# 0VTUBERMAKER" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/YUNISAMA/0VTUBERMAKER.git
-git push -u origin main
+測試一下
+0元VTUBER製作大師
