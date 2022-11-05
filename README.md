@@ -32,36 +32,37 @@ https://www.blender.org/
 - UNTIY
 https://unity.com/
 
-##相關軟體
-http://fantom1x.blog130.fc2.com/blog-entry-309.html
-https://vmc.info/
-https://malaybaku.github.io/VMagicMirror/
-https://www.vseeface.icu/
-https://digital-standard.com/tdpt/
-https://obsproject.com/
-https://store.steampowered.com/app/1364390/Animaze_by_FaceRig/
-https://www.unrealengine.com/en-US/unreal-engine-5
+>相關軟體<br />
+http://fantom1x.blog130.fc2.com/blog-entry-309.html<br />
+https://vmc.info/<br />
+https://malaybaku.github.io/VMagicMirror/<br />
+https://www.vseeface.icu/<br />
+https://digital-standard.com/tdpt/<br />
+https://obsproject.com/<br />
+https://store.steampowered.com/app/1364390/Animaze_by_FaceRig/<br />
+https://www.unrealengine.com/en-US/unreal-engine-5 <br />
 
-##GITHUB相關
-https://github.com/vrm-c/UniVRM
-https://github.com/vrm-c/vrm-specification
-https://github.com/madjin/vrm-samples
-https://github.com/ruyo/VRM4U
-https://github.com/saturday06/VRM_Addon_for_Blender
-https://github.com/vrm-c/vrm-specification
-https://github.com/malaybaku/VMagicMirror
-https://github.com/esperecyan/VRMConverterForVRChat
-https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity
-https://github.com/sh-akira/VirtualMotionCaptureProtocol
-https://github.com/yeemachine/kalidoface-3d
-https://github.com/V-Sekai/godot-vrm
-https://github.com/hinzka/52blendshapes-for-VRoid-face
-https://github.com/emilianavt/VSeeFaceReleases
-https://github.com/emilianavt/VSeeFaceSDK
-https://github.com/NeilioClown/VroidPoser
-https://github.com/xiaoye97/VRoidChinese
-https://github.com/xiaoye97/VRoidXYTool
-https://github.com/miu200521358/vroid2pmx
+
+>GITHUB相關<br />
+https://github.com/vrm-c/UniVRM<br />
+https://github.com/vrm-c/vrm-specification<br />
+https://github.com/madjin/vrm-samples<br />
+https://github.com/ruyo/VRM4U<br />
+https://github.com/saturday06/VRM_Addon_for_Blender<br />
+https://github.com/vrm-c/vrm-specification<br />
+https://github.com/malaybaku/VMagicMirror<br />
+https://github.com/esperecyan/VRMConverterForVRChat<br />
+https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity<br />
+https://github.com/sh-akira/VirtualMotionCaptureProtocol<br />
+https://github.com/yeemachine/kalidoface-3d<br />
+https://github.com/V-Sekai/godot-vrm<br />
+https://github.com/hinzka/52blendshapes-for-VRoid-face<br />
+https://github.com/emilianavt/VSeeFaceReleases<br />
+https://github.com/emilianavt/VSeeFaceSDK<br />
+https://github.com/NeilioClown/VroidPoser<br />
+https://github.com/xiaoye97/VRoidChinese<br />
+https://github.com/xiaoye97/VRoidXYTool<br />
+https://github.com/miu200521358/vroid2pmx<br />
 
 ##VRM網站
 https://vrm.dev/
