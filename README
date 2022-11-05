@@ -1,49 +1,38 @@
-用力的課堂
-0元VTUBER製作大師
-==
+# 用力的課堂
+## 0元VTUBER製作大師
 本計劃內容是整理免費資源與工具用來製作VTUBER
+# 
+#### 2d vtuber
 
-=
-2D 
-=
-角色設計：
-紙娃娃網站-可LIVE2D使用
+- 紙娃娃網站-可LIVE2D使用
 https://charat.me/
-VT工具：
-圖片依聲音改變
+- 圖片依聲音改變
 https://olmewe.itch.io/veadotube-mini
-簡易2D面補附紙娃娃
+- 簡易2D面補附紙娃娃
 https://kyuppin.itch.io/vtuber-kit
-LIVE2D-有免費版試用
+- LIVE2D-有免費版試用
 https://www.live2d.com/zh-CHS/
-=
-3D
-=
-手機捏人APP可免費輸出VRM
-VROID MOBILE
+
+#### 3D vtuber
+#### 手機捏人APP可免費輸出VRM
+- VROID MOBILE
 https://vroid.com/en/mobile
-MakeAvatar
+- MakeAvatar
 https://makeavatar.jp/
 
-PC可免費輸出VRM程式
-セシル変身アプリ
+#### PC可免費輸出VRM程式
+- セシル変身アプリ
 https://fantia.jp/fanclubs/10552
-VROID STUDIO
+- VROID STUDIO
 https://vroid.com/studio
 
-WEB可輸出3dAVATAR
-VketAvatarMaker
-https://avatarmaker.vket.com/
-readyplayer
-https://readyplayer.me/
-
-3D模型製作所需免費軟體
-BLENDER
+#### 3D模型製作所需免費軟體
+- BLENDER
 https://www.blender.org/
-UNTIY
+- UNTIY
 https://unity.com/
 
-相關軟體
+##相關軟體
 http://fantom1x.blog130.fc2.com/blog-entry-309.html
 https://vmc.info/
 https://malaybaku.github.io/VMagicMirror/
@@ -53,7 +42,7 @@ https://obsproject.com/
 https://store.steampowered.com/app/1364390/Animaze_by_FaceRig/
 https://www.unrealengine.com/en-US/unreal-engine-5
 
-GITHUB相關
+##GITHUB相關
 https://github.com/vrm-c/UniVRM
 https://github.com/vrm-c/vrm-specification
 https://github.com/madjin/vrm-samples
@@ -74,11 +63,11 @@ https://github.com/xiaoye97/VRoidChinese
 https://github.com/xiaoye97/VRoidXYTool
 https://github.com/miu200521358/vroid2pmx
 
-VRM網站
+##VRM網站
 https://vrm.dev/
 
-NICO VRM看板娘
+##NICO VRM看板娘
 https://3d.nicovideo.jp/alicia/
 
-UNITY醬
+##UNITY醬
 https://unity-chan.com/
