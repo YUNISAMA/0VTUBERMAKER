@@ -1,5 +1,5 @@
 # **台灣VRM TUBER**
-收集名單
+收集名單以VRM進行3D活動的虛擬主播
 #
 ![](https://yt3.ggpht.com/iV8wonRuqMcONJknbi25LLaEXT-T38TSdwtRkz9bi8JzKKz4CaBd5b9iRdM36QRoAXCGxb98=s176-c-k-c0x00ffffff-no-rj)
 小媒  
@@ -12,3 +12,7 @@ https://www.youtube.com/@hatsukishecil
 ![](https://yt3.ggpht.com/hHe5MV0NpjNSw2j7aFHuZEt-by1W7QzV7cjAQLup3Og6O0xtDgK65jaxonyDWYj-2i2iGtza2g=s176-c-k-c0x00ffffff-no-rj)
 金金子  
 https://www.youtube.com/@kinkinko_kvp
+#
+![](https://yt3.ggpht.com/MZoEieqr2FQWw5cSSUgqZH_mTw_yIscVo6JIHJuPAgdU45lB-zE7jtrlkpl1f1zS-vvXRkBCMA=s176-c-k-c0x00ffffff-no-rj)
+蘇雪霏  
+https://www.youtube.com/@SharronSu_ch
