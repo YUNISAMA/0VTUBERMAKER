@@ -15,7 +15,7 @@ https://twitter.com/hatsukishecil
 煙米子  
 https://www.youtube.com/@kihom1234  
 https://twitter.com/ZqnCJSLxbUrTFZm  
-https://t.co/aP4EjWZqcI  
+https://www.twitch.tv/kihom1234
 #
 ![](https://yt3.ggpht.com/hHe5MV0NpjNSw2j7aFHuZEt-by1W7QzV7cjAQLup3Og6O0xtDgK65jaxonyDWYj-2i2iGtza2g=s176-c-k-c0x00ffffff-no-rj)
 金金子  
@@ -41,4 +41,4 @@ https://twitter.com/nikuna196
 奈我 NaiWo  
 https://www.youtube.com/@Nai_Wo  
 https://twitter.com/nai_wo14   
-https://t.co/TKKh9mDlaM  
+https://www.twitch.tv/naiwo14  
