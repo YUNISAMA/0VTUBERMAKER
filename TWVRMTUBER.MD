@@ -37,3 +37,8 @@ https://twitter.com/Yemiaozi68
 https://www.youtube.com/@nikuna196  
 https://twitter.com/nikuna196
 #
+![](https://yt3.ggpht.com/AFssvese782YWyy2_DIP1iO-CAVs_eq8ys7MniRGACaupQeQA_FgRpPGNQI2nGC-M61KNgYrTg=s176-c-k-c0x00ffffff-no-rj)
+奈我 NaiWo  
+https://www.youtube.com/@Nai_Wo  
+https://twitter.com/nai_wo14   
+https://t.co/TKKh9mDlaM  
