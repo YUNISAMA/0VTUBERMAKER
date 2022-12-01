@@ -1,5 +1,6 @@
 # **台灣VRM TUBER**
 收集名單以VRM進行3D活動的虛擬主播
+更新日2022/12/01
 #
 ### ***公視小媒***  
 ![](https://yt3.ggpht.com/iV8wonRuqMcONJknbi25LLaEXT-T38TSdwtRkz9bi8JzKKz4CaBd5b9iRdM36QRoAXCGxb98=s176-c-k-c0x00ffffff-no-rj)  
