@@ -1,6 +1,8 @@
 # **台灣VRM TUBER**
-收集名單以VRM進行3D活動的虛擬主播
-更新日2022/12/01
+收集名單以VRM進行3D活動的虛擬主播  
+內容有問題與登錄請至推特：用力さま  
+https://twitter.com/YUNISAMA_V  
+更新日2022/12/04
 #
 ### ***公視小媒***  
 ![](https://yt3.ggpht.com/iV8wonRuqMcONJknbi25LLaEXT-T38TSdwtRkz9bi8JzKKz4CaBd5b9iRdM36QRoAXCGxb98=s176-c-k-c0x00ffffff-no-rj)  
@@ -108,13 +110,49 @@ https://twitter.com/RifleInPeace
 https://www.twitch.tv/sharonankh  
 #
 ### ***寒桑*** 
-![](https://static-cdn.jtvnw.net/jtv_user_pictures/d6bcda35-0b08-44f3-be67-74d027a64d74-profile_image-70x70.png)   
+![](https://yt3.ggpht.com/Gs8dzb6KGDs-OEvtX1e3JFvBb5E1LzLwv44cUJtiO1b277EBvZBTYO26_197ksiw3fZx0DOPqg=s176-c-k-c0x00ffffff-no-rj)   
 https://www.youtube.com/@Nini50Samui          
 https://twitter.com/samui1357955  
 https://www.twitch.tv/nini1357955   
 #
 ### ***枝枝いっぴき*** 
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/bae0d37f-f2db-4e64-a0bc-525326394d51-profile_image-70x70.png)   
-https://www.youtube.com/@Nini50Samui          
+       
 https://twitter.com/sansanlychee  
 https://www.twitch.tv/sansanlychee   
+#
+### ***水天一色みずてん*** 
+![](https://yt3.ggpht.com/22D6cOrGRPPVtRyKFStQxxClxm8nkYC-1vFC2BIBYYeicHh6RaQfhZas0TWe0QRLDoAnJf9QBA=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@Mizutenisyoku          
+https://twitter.com/mizuten_ishoku  
+https://www.twitch.tv/sansanlychee 
+#
+### ***琥珀にゃん*** 
+![](https://static-cdn.jtvnw.net/jtv_user_pictures/aecceffa-155b-4ef6-93d5-46f86d0ebce5-profile_image-70x70.png)   
+        
+https://twitter.com/KohakuNyan311  
+https://www.twitch.tv/kohakunyan 
+#
+### ***糜咔咔*** 
+![](https://static-cdn.jtvnw.net/jtv_user_pictures/6439cc4b-7622-462a-b100-69263373510d-profile_image-70x70.png)   
+         
+https://twitter.com/mica_1130  
+https://www.twitch.tv/mica1130
+#
+### ***K.T*** 
+![](https://yt3.ggpht.com/CktHCjNp2QVEBzNSLl5WwGJu-gTgqGiAW4ASg96moJ4Rexh7hHUtP3Tyo5-GmvySXS88CsgH=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@KTVT            
+https://twitter.com/KTOFU5    
+https://www.twitch.tv/sansanlychee 
+#
+### ***Lansio瀾汐*** 
+![](https://yt3.ggpht.com/lEGd0mI8wDjPnpWnKuV6_Q54Lcbtp0QMVR5MUCEMinxNpEf6vwJ_po-I_8jrY4ABuJGFbJQtJQ=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@Mizutenisyoku          
+https://twitter.com/Lansio0125    
+https://www.twitch.tv/lansio   
+#
+### ***纖纖*** 
+![](https://yt3.ggpht.com/HmITmEkue_g2TQLtgVaSyphFHlC2eJyfdFBaZQU-YD36uteJ1p8aAEuCrrYkAQDjortsSdDAuA=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@user-ve2mj1km4m            
+https://twitter.com/5__5fish    
+https://www.twitch.tv/regina5fish/ 
