@@ -2,7 +2,7 @@
 收集名單以VRM進行3D活動的虛擬主播  
 內容有問題與登錄請至推特：用力さま  
 https://twitter.com/YUNISAMA_V  
-更新日2022/12/04
+更新日2022/12/10
 #
 ### ***公視小媒***  
 ![](https://yt3.ggpht.com/iV8wonRuqMcONJknbi25LLaEXT-T38TSdwtRkz9bi8JzKKz4CaBd5b9iRdM36QRoAXCGxb98=s176-c-k-c0x00ffffff-no-rj)  
@@ -155,4 +155,16 @@ https://www.twitch.tv/lansio
 ![](https://yt3.ggpht.com/HmITmEkue_g2TQLtgVaSyphFHlC2eJyfdFBaZQU-YD36uteJ1p8aAEuCrrYkAQDjortsSdDAuA=s176-c-k-c0x00ffffff-no-rj)   
 https://www.youtube.com/@user-ve2mj1km4m            
 https://twitter.com/5__5fish    
+https://www.twitch.tv/regina5fish/ 
+#
+### ***月下懶貓LunyMeow*** 
+![](https://yt3.ggpht.com/z1GvKBcHxN64-Gki3_NXWhFGp4dao58srD12MvDvlcurs-GRjTsurwczfk9UB20wYVQEVZPUKio=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@LunyMeowvtuber       
+https://twitter.com/LunyMeow  
+https://www.twitch.tv/lunymeow_tw
+#
+### ***鶴目瑞羽*** 
+![](https://yt3.ggpht.com/iGl9vBb_uwF84SC4gAfo4i9YPPy_ZwaWUiMeEmDCxDl6jVBK36W-nOExUjV7z7W0NczohcV4PQ=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@tsurumemizuha      
+https://twitter.com/tsurumemizuha     
 https://www.twitch.tv/regina5fish/ 
