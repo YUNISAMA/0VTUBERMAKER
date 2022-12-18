@@ -168,3 +168,9 @@ https://www.twitch.tv/lunymeow_tw
 https://www.youtube.com/@tsurumemizuha      
 https://twitter.com/tsurumemizuha     
 https://www.twitch.tv/regina5fish/ 
+#
+### ***Naomi 娜歐蜜*** 
+![](https://yt3.googleusercontent.com/UzoDK-49YSph7fhM0kxrNkGGKGSg8tGWfP7bLUR3-0EY4pl3pRUzLxYr7uXtleOnsp3-xwQZ=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@naomi21625        
+https://twitter.com/Naomi_Vtuber     
+https://www.twitch.tv/naomi21625   
