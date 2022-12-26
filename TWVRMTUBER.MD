@@ -4,7 +4,7 @@
 https://twitter.com/YUNISAMA_V  
 更新日2022/12/10
 #
-### ***公視小媒***  
+###  ***公視小媒***  
 ![](https://yt3.ggpht.com/iV8wonRuqMcONJknbi25LLaEXT-T38TSdwtRkz9bi8JzKKz4CaBd5b9iRdM36QRoAXCGxb98=s176-c-k-c0x00ffffff-no-rj)  
 https://www.youtube.com/@ptsmei  
 https://twitter.com/MeiVtuber
@@ -174,3 +174,21 @@ https://www.twitch.tv/regina5fish/
 https://www.youtube.com/@naomi21625        
 https://twitter.com/Naomi_Vtuber     
 https://www.twitch.tv/naomi21625   
+#
+### ***薰雪珞*** 
+![](https://yt3.googleusercontent.com/sfR_EUbi0P5qHFWK9xUVYHBJhGhnPMi_gHrm-dkLsMRnv4F2Q6OdW-zaRQbs9hYQ7q0--PZUjg=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@xunshueluovtuber7939          
+https://twitter.com/xunshueluovtube      
+   
+#
+### ***雙生魚傘*** 
+![](https://yt3.googleusercontent.com/OD2hT54BtY7D1EHp0-T6ErB6aF-rjHM1J5caG0N5Cm4znwA-zlQysu9hO-HeyR8cjc82Z6rE7w=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@X2_Kasa          
+https://twitter.com/X2_Sakana_kasa     
+   
+#
+### ***鏡鏡kagami*** 
+![](https://yt3.ggpht.com/hq1rzJKEhlSHBalf4wxcN0ro2iR-Pw_nRqLTQznaeuDkDWfKYdEKPERVZhA23QTvNlWe9pyZkA=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@kagamich.9471            
+https://twitter.com/kagam1022_ch      
+      
