@@ -211,3 +211,8 @@ https://www.twitch.tv/minazukitouka
                
 https://twitter.com/JUx404       
 https://www.twitch.tv/jux404    
+#
+### ***腐宅*** 
+![](https://yt3.ggpht.com/P-mi4r2tap_7YxJbv49VsodgrqeXzuKG0Nv2UcL68uo8u_2oPhIs1CfE1lJUyq8e8OvemKtc=s176-c-k-c0x00ffffff-no-rj)  
+https://www.youtube.com/@ch.fuzhai.5972               
+https://twitter.com/Fzhi19         
