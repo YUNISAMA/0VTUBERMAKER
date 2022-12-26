@@ -2,7 +2,7 @@
 收集名單以VRM進行3D活動的虛擬主播  
 內容有問題與登錄請至推特：用力さま  
 https://twitter.com/YUNISAMA_V  
-更新日2022/12/10
+更新日2022/12/26
 #
 ###  ***公視小媒***  
 ![](https://yt3.ggpht.com/iV8wonRuqMcONJknbi25LLaEXT-T38TSdwtRkz9bi8JzKKz4CaBd5b9iRdM36QRoAXCGxb98=s176-c-k-c0x00ffffff-no-rj)  
@@ -192,3 +192,22 @@ https://twitter.com/X2_Sakana_kasa
 https://www.youtube.com/@kagamich.9471            
 https://twitter.com/kagam1022_ch      
       
+#
+### ***阝千翎*** 
+![](https://yt3.ggpht.com/ytc/AMLnZu-MG9spAUdJyxLi-YBiq0CNmJOXBMQ3-x2MrGmoOw=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@Haokute              
+https://twitter.com/V_chiurin      
+ 
+#
+### ***水無月悠歌*** 
+![](https://yt3.ggpht.com/eg9Vcvu5jz1acf_3fMFAy_3c7A6N9-JwUVeCJkT3SSW11-iLSymLohcrMXW4RqY09Etb3LXc-Q=s176-c-k-c0x00ffffff-no-rj)   
+https://www.youtube.com/@minazukitouka                
+https://twitter.com/minazukitouka      
+https://www.twitch.tv/minazukitouka    
+
+#
+### ***周瑜*** 
+![](https://static-cdn.jtvnw.net/jtv_user_pictures/389b06ba-5ae7-45aa-b5a8-a95cba5ad491-profile_image-70x70.png)   
+               
+https://twitter.com/JUx404       
+https://www.twitch.tv/jux404    
