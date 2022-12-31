@@ -134,7 +134,7 @@ https://twitter.com/KohakuNyan311
 https://www.twitch.tv/kohakunyan 
 #
 ### ***糜咔咔*** 
-![](https://static-cdn.jtvnw.net/jtv_user_pictures/6439cc4b-7622-462a-b100-69263373510d-profile_image-70x70.png)   
+![](https://static-cdn.jtvnw.net/jtv_user_pictures/b8d522e1-88c7-45a4-b008-74ec747079b9-profile_image-70x70.png)   
          
 https://twitter.com/mica_1130  
 https://www.twitch.tv/mica1130
