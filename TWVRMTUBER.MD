@@ -2,7 +2,7 @@
 收集名單以VRM進行3D活動的虛擬主播  
 內容有問題與登錄請至推特：用力さま  
 https://twitter.com/YUNISAMA_V  
-更新日2022/12/26
+更新日2022/12/31
 #
 ###  ***公視小媒***  
 ![](https://yt3.ggpht.com/iV8wonRuqMcONJknbi25LLaEXT-T38TSdwtRkz9bi8JzKKz4CaBd5b9iRdM36QRoAXCGxb98=s176-c-k-c0x00ffffff-no-rj)  
@@ -215,4 +215,16 @@ https://www.twitch.tv/jux404
 ### ***腐宅*** 
 ![](https://yt3.ggpht.com/P-mi4r2tap_7YxJbv49VsodgrqeXzuKG0Nv2UcL68uo8u_2oPhIs1CfE1lJUyq8e8OvemKtc=s176-c-k-c0x00ffffff-no-rj)  
 https://www.youtube.com/@ch.fuzhai.5972               
-https://twitter.com/Fzhi19         
+https://twitter.com/Fzhi19  
+
+#
+### ***桃米糰子*** 
+![](https://yt3.ggpht.com/iDdTs7HblTpW5LzrGvdYm8ZQ-jRCV89Hrvr8hyBmhdfSfinPC2hyCZau1EoO0M8U894kd2Ei_fY=s176-c-k-c0x00ffffff-no-rj)  
+https://www.youtube.com/@Taomi_TuanZih                
+https://twitter.com/Taomi_TuanZih     
+
+#
+### ***洄姆 huei mu*** 
+![](https://yt3.ggpht.com/vE2X3KVsiIRHKB6JIj-vhfpk3w1knr09FBondnsrAD0HP7weklAY3_53m8QUnDgLiGdcx3dZwIs=s176-c-k-c0x00ffffff-no-rj)  
+https://www.youtube.com/@hueimu317                 
+https://twitter.com/HueiMu      
